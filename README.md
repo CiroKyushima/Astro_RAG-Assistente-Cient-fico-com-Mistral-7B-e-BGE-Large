@@ -53,3 +53,5 @@ Próximos Passos
 [ ] Adicionar suporte a múltiplos idiomas.
 
 [ ] Integrar técnicas de Re-ranking para melhorar a precisão da busca.
+
+## o projeto ainda esta em desenvolvimento e futuramente descreverei mais sobre o projeto no readme...
