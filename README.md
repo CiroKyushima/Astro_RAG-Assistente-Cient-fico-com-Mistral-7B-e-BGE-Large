@@ -54,7 +54,7 @@ Próximos Passos
 
 [ ] Integrar técnicas de Re-ranking para melhorar a precisão da busca.
 
-## o projeto ainda esta em desenvolvimento e futuramente descreverei mais sobre o projeto no readme. abaixo as informações de meu HardWare:
+## o projeto ainda esta em desenvolvimento e futuramente descreverei mais sobre o projeto e como testa-lo no readme. abaixo as informações de meu HardWare:
 - RTX4050 mobile 6gb Vram;
 - i5 13hx gen;
 - 16gb ram DDR5;
