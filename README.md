@@ -1,4 +1,4 @@
-# Sci-RAG: Assistente Científico com Mistral-7B e BGE-Large
+# Astro-RAG: Assistente Científico com Mistral-7B e BGE-Large
 Este projeto implementa um pipeline de RAG (Retrieval-Augmented Generation) de alta performance, projetado para extrair e sintetizar informações de uma base de dados local de aproximadamente 1.000 artigos científicos do repositório arXiv (focado em astrofísica e física teórica).
 
 O sistema utiliza modelos de estado da arte para garantir que as respostas sejam tecnicamente precisas e diretamente fundamentadas em evidências bibliográficas.
